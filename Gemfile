@@ -45,6 +45,10 @@ gem 'paperclip', '~> 4.2.0'
 
 gem 'rmagick', '~> 2.16'
 
+gem 'masonry-rails', '~> 0.2.4'
+
+gem 'coffee-script-source', '1.8.0'
+
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
