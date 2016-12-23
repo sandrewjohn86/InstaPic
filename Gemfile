@@ -49,6 +49,8 @@ gem 'masonry-rails', '~> 0.2.4'
 
 gem 'coffee-script-source', '1.8.0'
 
+gem 'acts_as_votable', '~> 0.10.0'
+
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
